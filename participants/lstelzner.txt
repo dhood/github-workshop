@@ -7,3 +7,5 @@ lstelzner
 Robotics Software Engineer
 
 **Motivation:** Learn more about contributing to open source
+
+**Fun fact** I got 10,366 steps today
